@@ -1,1 +1,2 @@
 # smartgit
+master add
